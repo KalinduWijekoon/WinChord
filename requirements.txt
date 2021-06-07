@@ -17,7 +17,7 @@ mccabe==0.6.1
 pycparser==2.20
 pylint==2.4.4
 pytz==2019.3
-PyYAML==5.3.1
+PyYAML>=5.4
 requests==2.23.0
 reverse==0.1.0
 six==1.14.0
